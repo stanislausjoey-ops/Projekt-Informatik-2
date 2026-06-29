@@ -2,7 +2,7 @@
  * Fahrrad.cpp
  *
  *  Created on: Nov 7, 2025
- *      Author: stani
+ *      Author: Joey
  */
 
 #include "Fahrrad.h"
