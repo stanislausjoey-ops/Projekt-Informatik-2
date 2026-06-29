@@ -2,7 +2,7 @@
  * Fahrrad.h
  *
  *  Created on: Nov 7, 2025
- *      Author: hangon
+ *      Author: Joey
  */
 
 #ifndef FAHRRAD_H_
